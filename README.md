@@ -1,11 +1,11 @@
 ## ✨ Quem sou eu 
-Olá! Meu nome é Thaiza e eu tenho 19 anos. Sou estudante de Análise e Desenvolvimento de Sistemas na [Belas Artes](https://novo.belasartes.br/analise-e-desenvolvimento-de-sistemas-ead/), Back-End com Foco em Java pela [Escola Britânica de Artes Criativas e Tecnologias](https://ebaconline.com.br/back-end-java) e Desenvolvedora Pleno na [F1rst](https://www.linkedin.com/company/f1rsttecnologia/mycompany/). Também sou criadora de vários repositórios com projetos legais - e um pouco aleatórios. 
+Olá! Meu nome é Thaiza e eu tenho 19 anos. Sou estudante de Análise e Desenvolvimento de Sistemas pela [Belas Artes](https://novo.belasartes.br/analise-e-desenvolvimento-de-sistemas-ead/), Back-End com Foco em Java pela [Escola Britânica de Artes Criativas e Tecnologias](https://ebaconline.com.br/back-end-java) e Desenvolvedora Pleno Java na [F1rst](https://www.linkedin.com/company/f1rsttecnologia/mycompany/). Também sou criadora de vários repositórios com projetos legais - e um pouco aleatórios como uma boa e grande curiosa. 
 
 ## 🗂️ O que você encontra no meu Github
 
-👩‍💻 Projetos de FrontEnd e BackEnd
+👩‍💻 Projetos de Front-End e Back-End
 
-🤖 Projetos de racíocinio lógico
+🤖 Projetos de raciocínio lógico
 
 📑️ Meus trabalhos da faculdade
 
@@ -13,7 +13,7 @@ Olá! Meu nome é Thaiza e eu tenho 19 anos. Sou estudante de Análise e Desenvo
 
 🖥️ Alguns códigos aleatórios
 
-## 🌟 Tecnologias que estou utilizando mais no momento 
+## 🌟 Tecnologias que estou utilizando no momento 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-163490?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
