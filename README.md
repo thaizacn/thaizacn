@@ -22,4 +22,4 @@ Olá! Meu nome é Thaiza. Eu sou estudante de Análise e Desenvolvimento de Sist
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🔎 Me encontre nas redes sociais 🔎
-![LinkedIn](https://www.linkedin.com/in/thaiza-nascimento/)
+[Acesse meu Linkedin](https://www.linkedin.com/in/thaiza-nascimento/)
