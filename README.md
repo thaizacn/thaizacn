@@ -2,7 +2,7 @@
 
 <div style="margin-right: 500px;">
 
-☕ Estudante de Back-End com foco em Java pela EBAC; <br>
+👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Belas Artes e Back-End com foco em Java pela EBAC; <br>
 🙆 Me aprofundando nas linguagens Java, Python, SQL, HTML, CSS e JavaScript; <br>
 💻 Utilizo Spring Framework, Apache Camel, Maven, JUnit5, JPA e Bootstrap;<br><br>
 💬 Contate-me por: <br>
