@@ -3,15 +3,11 @@ Olá! Meu nome é Thaiza e eu tenho 19 anos. Sou estudante de Análise e Desenvo
 
 ## 🗂️ O que você encontra no meu Github
 
-👩‍💻 Projetos de Front-End e Back-End
-
-🤖 Projetos de raciocínio lógico
-
-📑️ Meus trabalhos da faculdade
-
-⚙️ Atividades da EBAC
-
-🖥️ Alguns códigos aleatórios
+- Projetos de Front-End e Back-End; <br>
+- Projetos de raciocínio lógico; <br>
+- Meus trabalhos da faculdade; <br>
+- Atividades da EBAC; <br>
+- Alguns códigos aleatórios.
 
 ## 🌟 Tecnologias que estou utilizando no momento 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
