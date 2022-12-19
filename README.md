@@ -1,5 +1,5 @@
 ## 💜  Quem sou eu 
-Oie! Meu nome é Thaiza e eu tenho 20 anos. Sou estudante de Análise e Desenvolvimento de Sistemas pela [Belas Artes](https://novo.belasartes.br/analise-e-desenvolvimento-de-sistemas-ead/), Back-End com Foco em Java pela [Escola Britânica de Artes Criativas e Tecnologias](https://ebaconline.com.br/back-end-java) e Desenvolvedora Pleno Java na [F1rst](https://www.linkedin.com/company/f1rsttecnologia/mycompany/). Também sou criadora de vários repositórios com projetos legais - e um pouco aleatórios como uma boa e grande curiosa. 
+Meu nome é Thaiza e eu tenho 20 anos. Sou estudante de Análise e Desenvolvimento de Sistemas pela [Belas Artes](https://novo.belasartes.br/analise-e-desenvolvimento-de-sistemas-ead/), Back-End com Foco em Java pela [Escola Britânica de Artes Criativas e Tecnologias](https://ebaconline.com.br/back-end-java) e Desenvolvedora Pleno Java na [F1rst](https://www.linkedin.com/company/f1rsttecnologia/mycompany/). Também sou criadora de vários repositórios com projetos legais - e um pouco aleatórios como uma boa e grande curiosa. 
 
 ## 💻  O que você encontra no meu Github
 
