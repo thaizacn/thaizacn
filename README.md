@@ -13,7 +13,7 @@ Meu nome é Thaiza e eu tenho 21 anos. Sou estudante de Análise e Desenvolvimen
 
 <div align="center">
   <a href="https://github.com/thaizacn/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaizacn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaizacn&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaizacn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
