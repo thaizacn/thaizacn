@@ -5,8 +5,8 @@ Meu nome é Thaiza e eu tenho 22 anos. Sou estudante de especialização em Enge
 
 - Projetos de Front-End e Back-End; <br>
 - Projetos de raciocínio lógico; <br>
-- Meus trabalhos da faculdade; <br>
-- Atividades da EBAC; <br>
+- Meus trabalhos da faculdade, EBAC e pós; <br>
+- Meus estudos sobre cloud, linguagens e framework; <br>
 - Alguns códigos aleatórios.
 
 ## 💗 Tecnologias mais utilizadas
